@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_label_black_24dp"
+            android:title="home"
+            />
+        <item
+            android:id="@+id/flower"
+            android:icon="@drawable/ic_label_black_24dp"
+            android:title="Flower" />
+        <item
+            android:id="@+id/art"
+            android:icon="@drawable/ic_label_black_24dp"
+            android:title="Abstract" />
+        <item
+            android:id="@+id/painting"
+            android:icon="@drawable/ic_label_black_24dp"
+            android:title="Painting" />
+        <item
+            android:id="@+id/nature"
+            android:icon="@drawable/ic_label_black_24dp"
+            android:title="Nature" />
+
+
+    </group>
+
+</menu>
